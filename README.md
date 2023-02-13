@@ -1,2 +1,2 @@
-# edosptwn-resolusi
-Repository Web Programming edosptwn
+# edosptwn Web Programming
+Repository training edosptwn
