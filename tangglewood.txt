@@ -3,7 +3,13 @@ Gitar akustik
 - bikin tutorial main gitar
 *tutorial kunci dasar
 *tutorial nada dasar
-  - belajar tempo musik
-  - pakai metronom
+*nada pentatonic
+  _major
+    _minor
+*nada arpegio
+*nada arabian
 - cover lagu yang sekarang lagi booming
 - composer musik
+  *audacity
+  *fl studio
+- cara pakai guitar rig 5
