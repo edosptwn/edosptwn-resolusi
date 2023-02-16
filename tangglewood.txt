@@ -4,7 +4,12 @@ Gitar akustik
 *tutorial kunci dasar
 *tutorial nada dasar
 *nada pentatonic
+  _major
+    _minor
 *nada arpegio
 *nada arabian
 - cover lagu yang sekarang lagi booming
 - composer musik
+  *audacity
+  *fl studio
+- cara pakai guitar rig 5
