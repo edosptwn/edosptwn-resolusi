@@ -12,3 +12,4 @@ Gitar akustik
 - composer musik
   *audacity
   *fl studio
+- cara pakai guitar rig 5
